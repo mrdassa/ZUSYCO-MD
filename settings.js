@@ -18,7 +18,7 @@ Creator : @darkmakerofc , @mr-nima-x
 module.exports = {
   OWNER_NUMBER: "94719750429",
   SUDO_NUMBERS : "94719750429",
-  OWNER_NAME: "『 𝙼𝚁 sawwa 』",
+  OWNER_NAME: "『 𝙼𝚁.sawwa 』",
   BOT_NAME : "Mr.SAWWA_WA_BOT",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -54,7 +54,7 @@ module.exports = {
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
-  AUTO_REACT : true,
+  AUTO_REACT : false,
   OWNER_REACT : '👻',
   AUTO_BGM : true,
   BGM : {
